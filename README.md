@@ -1,1 +1,2 @@
-# tom-and-jerry
+# collisionAlgorithm
+Algorithm to detect collision between two objects
